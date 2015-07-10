@@ -28,6 +28,7 @@ You'll see some start up output and a prompt:
     hubot-moo-script>
 
 If you type moo, you'll see Super Cow Powers.
+
     hubot-moo-script> moo
              (__)
              (oo)
