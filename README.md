@@ -27,6 +27,40 @@ You'll see some start up output and a prompt:
     [Sat Feb 28 2015 12:38:27 GMT+0000 (GMT)] INFO Using default redis on localhost:6379
     hubot-moo-script>
 
+If you type moo, you'll see Super Cow Powers.
+    hubot-moo-script> moo
+             (__)
+             (oo)
+       /------\/
+      / |    ||
+     *  /\---/\
+        ~~   ~~
+    ...."Have you mooed today?"...
+    hubot-moo-script> moo moo
+             (__)
+             (oo)
+       /------\/
+      / |    ||
+     *  /\---/\
+        ~~   ~~
+    ...."Have you mooed today?"...
+    hubot-moo-script> moo moo moo
+             (__)
+             (oo)
+       /------\/
+      / |    ||
+     *  /\---/\
+        ~~   ~~
+    ...."Have you mooed today?"...
+    hubot-moo-script> moomoo
+             (__)
+             (oo)
+       /------\/
+      / |    ||
+     *  /\---/\
+        ~~   ~~
+    ...."Have you mooed today?"...
+
 Then you can interact with hubot-moo-script by typing `hubot-moo-script help`.
 
     hubot-moo-script> hubot-moo-script help
