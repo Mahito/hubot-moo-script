@@ -4,7 +4,12 @@
   "private": true,
   "author": "Mahito OGURA <earthdragon77@gmail.com>",
   "description": "This BOT has Super Cow Powers.",
-  "dependencies": {
+  "dependencies": {},
+  "engines": {
+    "node": "0.10.x"
+  },
+  "main": "index.coffee",
+  "devDependencies": {
     "hubot": "^2.13.2",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.1.5",
@@ -18,7 +23,21 @@
     "hubot-scripts": "^2.16.1",
     "hubot-shipit": "^0.2.0"
   },
-  "engines": {
-    "node": "0.10.x"
-  }
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mahito/hubot-moo-script.git"
+  },
+  "keywords": [
+    "hubot",
+    "script",
+    "moo"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mahito/hubot-moo-script/issues"
+  },
+  "homepage": "https://github.com/Mahito/hubot-moo-script#readme"
 }
