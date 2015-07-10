@@ -1,7 +1,6 @@
 {
   "name": "hubot-moo-script",
   "version": "0.0.0",
-  "private": true,
   "author": "Mahito OGURA <earthdragon77@gmail.com>",
   "description": "This BOT has Super Cow Powers.",
   "dependencies": {},
