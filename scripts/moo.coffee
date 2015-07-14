@@ -15,8 +15,9 @@
 #   Mahito <earthdragon77@gmail.com>
 
 module.exports = (robot) ->
-  robot.hear /(moo|moo )+/, (msg) ->
+  robot.respond /(moo|moo )+/, (msg) ->
     msg.send '''
+             ```
                       (__)
                       (oo)
                 /------\\/
@@ -24,4 +25,5 @@ module.exports = (robot) ->
               *  /\\---/\\
                  ~~   ~~
              ...."Have you mooed today?"...
+             ```
              '''

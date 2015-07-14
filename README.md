@@ -29,7 +29,7 @@ You'll see some start up output and a prompt:
 
 If you type moo, you'll see Super Cow Powers.
 
-    hubot-moo-script> moo
+    hubot-moo-script> hubot-moo-script moo
              (__)
              (oo)
        /------\/
@@ -37,7 +37,7 @@ If you type moo, you'll see Super Cow Powers.
      *  /\---/\
         ~~   ~~
     ...."Have you mooed today?"...
-    hubot-moo-script> moo moo
+    hubot-moo-script> hubot-moo-script moo moo
              (__)
              (oo)
        /------\/
@@ -45,7 +45,7 @@ If you type moo, you'll see Super Cow Powers.
      *  /\---/\
         ~~   ~~
     ...."Have you mooed today?"...
-    hubot-moo-script> moo moo moo
+    hubot-moo-script> hubot-moo-script moo moo moo
              (__)
              (oo)
        /------\/
@@ -53,7 +53,7 @@ If you type moo, you'll see Super Cow Powers.
      *  /\---/\
         ~~   ~~
     ...."Have you mooed today?"...
-    hubot-moo-script> moomoo
+    hubot-moo-script> hubot-moo-script moomoo
              (__)
              (oo)
        /------\/
